@@ -28,3 +28,4 @@ The website shouldn't break when zoomed in or zoomed out or while shrinking the 
 The text shouldn't overflow.
 
 [Frontend Assignment (1).pdf](https://github.com/peninsula101/Simplotel_Assignment/files/14494060/Frontend.Assignment.1.pdf)
+###Published Link : tvsricharansaik.ccbp.tech
